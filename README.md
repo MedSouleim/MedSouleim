@@ -1,7 +1,7 @@
 ## Hi there 👋
+I'm a Full Stack Web Developer, currently immersing myself in web development at Coding Dojo, transitioning from my management studies at ISET Nabeul.
 
-<!--
-**MedSouleim/MedSouleim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I aim to hone my skills to collaborate effectively with teams, communicate clearly with clients, and adapt to evolving technologies. In the future, I aspire to lead teams, leveraging my experiences to guide and inspire others in this field.
 
 Here are some ideas to get you started:
 
